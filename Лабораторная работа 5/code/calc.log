@@ -1,0 +1,24 @@
+
+Input: [1, 2, 3], +
+Status: SUCCESS
+Estimated time: 0.0005266089992801426 seconds
+
+Input: [1, 2, 3], +
+Status: SUCCESS
+Estimated time: 0.00018837199968402274 seconds
+
+Input: [7, 3], -
+Status: SUCCESS
+Estimated time: 0.00033414999961678404 seconds
+
+Input: [100, 23], *
+Status: SUCCESS
+Estimated time: 0.00032734200067352504 seconds
+
+Input: [100, 2], /
+Status: SUCCESS
+Estimated time: 0.0003911479998350842 seconds
+
+Input: [100, 2], /
+Status: SUCCESS
+Estimated time: 0.0004617750000761589 seconds
